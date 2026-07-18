@@ -8,7 +8,7 @@
 - 🏆 2x Hackathon Winner — Africa's Talking Women in Tech & Code Queen
 - 💜 Passionate about building technology that reaches underserved communities
 - 🎤 International speaker and Women in STEM Advocate
-- 📝 8,900+ LinkedIn followers documenting my journey publicly
+- 📝 Documenting my journey publicly on Linkedin (https://www.linkedin.com/in/grace-nakiyemba)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
