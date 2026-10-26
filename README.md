@@ -176,6 +176,18 @@ I'm always interested in collaborating on meaningful open-source projects, espec
 
 ---
 
+
+---
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Grace256c/Grace256c/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
 ## 🤝 Let's Connect
 
 I'm open to **software engineering opportunities, internships, apprenticeships, open-source collaboration, and technical mentorship**.
